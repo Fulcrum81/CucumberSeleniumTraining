@@ -1,0 +1,19 @@
+*.class
+*.DS_Store
+*.idea
+*.iml
+*.html
+target/
+
+*.iml
+*.iws
+*.ipr
+*.zip
+target/
+build/
+.idea/
+
+# Package Files #
+*.jar
+*.war
+*.ear
