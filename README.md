@@ -1,9 +1,5 @@
-Joint-Cucumber
+Cucumber-Selenium Example
 ====================
-To run test you need:
-1. Unarchive Joint.zip
-2. Open windows command line go to folder with unzipped files.
-3. run command: "mvn clean compile test" (You need to install Maven and add it to path system variable).
-4. reports are generated in {project_root_folder}\target\reports\cucumber\html
-
-Optionally you can open pom.xml in IntelliJ Idea and run tests from this IDE.
+The project was created using IntelliJ IDEA Community edition for educational purposes
+It contains one simple google search test with attempt to apply data-driven approach in Cucumber-JVM
+Students' task is to correct it in order to make it work in DDT manner.
