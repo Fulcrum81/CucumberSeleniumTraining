@@ -2,7 +2,7 @@
   @done
   Feature: Google search
 
-  Scenario: Search on Google
+  Scenario Outline: Search on Google
     Given   User is on Google page
     When    User enters <text> in search field
     And     User clicks Search button
